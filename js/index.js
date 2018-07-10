@@ -1,4 +1,4 @@
-var appVotes = "https://script.google.com/macros/s/AKfycby2Wz9zEFnY1GdUYS-hNerOhnz1dQI5LFdF8r3L1RdYZv_xSkc/exec";
+var appVotes = "https://script.google.com/macros/s/AKfycbykTnpnxs0dp8W0SooQSmbmZ1ECacaXR4cdkfSClw/exec";
 
 $(document).ready(function() {
     $("#container div a").click(function() {
